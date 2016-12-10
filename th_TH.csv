@@ -1,103 +1,103 @@
-"Read Details","Read Details",module,Magento_AdminNotification
-"Mark as Read","Mark as Read",module,Magento_AdminNotification
-"Are you sure?","Are you sure?",module,Magento_AdminNotification
-Remove,Remove,module,Magento_AdminNotification
-"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
-"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
-"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
-"Incoming Message","Incoming Message",module,Magento_AdminNotification
-close,close,module,Magento_AdminNotification
-Notifications,Notifications,module,Magento_AdminNotification
-"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
-"Please select messages.","Please select messages.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
-"1 Hour","1 Hour",module,Magento_AdminNotification
-"2 Hours","2 Hours",module,Magento_AdminNotification
-"6 Hours","6 Hours",module,Magento_AdminNotification
-"12 Hours","12 Hours",module,Magento_AdminNotification
-"24 Hours","24 Hours",module,Magento_AdminNotification
-critical,critical,module,Magento_AdminNotification
-major,major,module,Magento_AdminNotification
-minor,minor,module,Magento_AdminNotification
-notice,notice,module,Magento_AdminNotification
-"Wrong message type","Wrong message type",module,Magento_AdminNotification
-"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
-"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
-"Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
-"System Messages:","System Messages:",module,Magento_AdminNotification
-"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
-"Major System Messages","Major System Messages",module,Magento_AdminNotification
-"System messages","System messages",module,Magento_AdminNotification
-Close,Close,module,Magento_AdminNotification
-"See All (","See All (",module,Magento_AdminNotification
-" unread)"," unread)",module,Magento_AdminNotification
-"Please correct the data sent.","Please correct the data sent.",module,Magento_AdvancedPricingImportExport
-"Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
-"There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
-"We can't find the role for the user you wanted.","We can't find the role for the user you wanted.",module,Magento_Authorization
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",module,Magento_Authorization
-"You created the order.","You created the order.",module,Magento_Authorizenet
-"Order saving error: %1","Order saving error: %1",module,Magento_Authorizenet
-"Please choose a payment method.","Please choose a payment method.",module,Magento_Authorizenet
-"We can't process your order right now. Please try again later.","We can't process your order right now. Please try again later.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
-"amount %1","amount %1",module,Magento_Authorizenet
-failed.,failed.,module,Magento_Authorizenet
-successful.,successful.,module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
-authorize,authorize,module,Magento_Authorizenet
-"authorize and capture","authorize and capture",module,Magento_Authorizenet
-capture,capture,module,Magento_Authorizenet
-refund,refund,module,Magento_Authorizenet
-void,void,module,Magento_Authorizenet
-"Gateway error: %1","Gateway error: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
-"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
-"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
-"Invalid transaction ID.","Invalid transaction ID.",module,Magento_Authorizenet
-"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
-"Invalid amount for refund.","Invalid amount for refund.",module,Magento_Authorizenet
-"Payment refunding error.","Payment refunding error.",module,Magento_Authorizenet
-"The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed.",module,Magento_Authorizenet
-"This payment didn't work out because we can't find this order.","This payment didn't work out because we can't find this order.",module,Magento_Authorizenet
-"There was a payment authorization error.","There was a payment authorization error.",module,Magento_Authorizenet
-"Please enter a transaction ID to authorize this payment.","Please enter a transaction ID to authorize this payment.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.",module,Magento_Authorizenet
-"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 has been approved. Amount %2. Transaction status is ""%3""",module,Magento_Authorizenet
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.",module,Magento_Authorizenet
-"Authorize Only","Authorize Only",module,Magento_Authorizenet
-"Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
-"Credit Card Type","Credit Card Type",module,Magento_Authorizenet
-"Credit Card Number","Credit Card Number",module,Magento_Authorizenet
-"Expiration Date","Expiration Date",module,Magento_Authorizenet
-"Card Verification Number","Card Verification Number",module,Magento_Authorizenet
-"Fraud Detection ","Fraud Detection ",module,Magento_Authorizenet
-"FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
-"AVS Response","AVS Response",module,Magento_Authorizenet
-"Card Code Response","Card Code Response",module,Magento_Authorizenet
-"CAVV Response","CAVV Response",module,Magento_Authorizenet
-"Fraud Filters","Fraud Filters",module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
-"Cache Storage Management","Cache Storage Management",module,Magento_Backend
-"Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
-"Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
-Invalidated,Invalidated,module,Magento_Backend
-Orders,Orders,module,Magento_Backend
-Amounts,Amounts,module,Magento_Backend
-Bestsellers,Bestsellers,module,Magento_Backend
+"Read Details","อ่านต่อ",module,Magento_AdminNotification
+"Mark as Read","ทำเครื่องหมายว่าอ่านแล้ว",module,Magento_AdminNotification
+"Are you sure?","คุณแน่ใจหรือไม่ ?",module,Magento_AdminNotification
+Remove,"ลบ",module,Magento_AdminNotification
+"Messages Inbox","กล่องข้อความ",module,Magento_AdminNotification
+"You have %1 new system messages","คุณมี %1 ข้อความใหม่ในระบบ",module,Magento_AdminNotification
+"You have %1 new system message","คุณมี %1 ข้อความใหม่ในระบบ",module,Magento_AdminNotification
+"Incoming Message","กล่องข้อความเข้า",module,Magento_AdminNotification
+close,"ปิด",module,Magento_AdminNotification
+Notifications,"แจ้งเตือน",module,Magento_AdminNotification
+"The message has been marked as Read.","ข้อความนี้ถูกตั้งค่าว่าอ่านแล้ว",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","พบข้อผิดพลาดไม่สามารถตั้งค่าว่าอ่านแล้วได้",module,Magento_AdminNotification
+"Please select messages.","กรุณาเลือกข้อความ.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","%1 รายการ ได้ถูกทำเครื่องหมายว่าอ่านแล้ว",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","%1 รายการได้ถูกลบออกแล้ว",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","ไม่สามารถลบข้อความได้เนื่องจากมีข้อผิดพลาด",module,Magento_AdminNotification
+"The message has been removed.","ข้อความได้ถูกลบออก",module,Magento_AdminNotification
+"1 Hour","1 ชั่วโมง",module,Magento_AdminNotification
+"2 Hours","2 ชั่วโมง",module,Magento_AdminNotification
+"6 Hours","6 ชั่วโมง",module,Magento_AdminNotification
+"12 Hours","12 ชั่วโมง",module,Magento_AdminNotification
+"24 Hours","24 ชั่วโมง",module,Magento_AdminNotification
+critical,อันตราย,module,Magento_AdminNotification
+major,"หลัก",module,Magento_AdminNotification
+minor,รอง,module,Magento_AdminNotification
+notice,แจ้งให้ทราบ,module,Magento_AdminNotification
+"Wrong message type","ประเภทข้อความที่ไม่ถูกต้อง",module,Magento_AdminNotification
+"Wrong notification ID specified.","หมายเลขการแจ้งเตือนที่ระบุผิดพลาด",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} ไม่แนะนำให้ใช้ใน production environment ในการกำหนดตัวแปร the Base Unsecure URL / Base Secure URL แนะนำให้ตั้งค่าตัวแปรใน <a href=""%1"">ตั้งค่าระบบ</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","ประเภทของแคชไม่ถูกต้อง %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","กรุณาไปยัง <a href=""%1"">การบริหารจัดการแคช</a> และรีเฟรชแคช",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","ไม่สามารถเชื่อมต่อ media files ได้ กรุณาดูข้อมูลเพิ่มเติมที่ log ไฟล์",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","ระบบได้จัดเก็บไฟล์ของคุณเรียบร้อยแล้ว",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","เว็บเซิร์ฟเวอร์ของคุณมีการตั้งค่าที่ไม่ถูกต้องและช่วยให้เข้าถึงไฟล์ที่สำคัญ โปรดติดต่อผู้ให้บริการโฮสติ้ง",module,Magento_AdminNotification
+"System Messages:","ข้อความระบบ :",module,Magento_AdminNotification
+"Critical System Messages","ข้อความแจ้งเตือนจากระบบขั้นร้ายแรง",module,Magento_AdminNotification
+"Major System Messages","ข้อความระบบหลัก",module,Magento_AdminNotification
+"System messages","ข้อความระบบ",module,Magento_AdminNotification
+Close,"ปิด",module,Magento_AdminNotification
+"See All (","ดูทั้งหมด (",module,Magento_AdminNotification
+" unread)"," ไม่ได้อ่าน)",module,Magento_AdminNotification
+"Please correct the data sent.","โปรดแก้ไขข้อมูลที่ส่ง",module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","ไม่พบ Entity ประเภท model '%1' ",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity ประเภท model ต้องเป็นตัวอย่างของ\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","ไม่พบสินค้าประเภทนี้ในการส่งออกข้อมูล",module,Magento_AdvancedPricingImportExport
+"We can't find the role for the user you wanted.","เราไม่สามารถหา role  สำหรับผู้ใช้ที่คุณต้องการได้",module,Magento_Authorization
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","มีบ้างสิ่งผิดพลาดในขณะที่รวบรวมรายการทรัพยากรที่อนุญาติ ดูข้อมูลเพิ่มเติมได้ใน exceptions log",module,Magento_Authorization
+"You created the order.","รายการสั่งซื้อถูกสร้างแล้ว",module,Magento_Authorizenet
+"Order saving error: %1","พบข้อผิดพลาดในการบันทึกรายการสั่งซื้อ %1 ",module,Magento_Authorizenet
+"Please choose a payment method.","โปรดเลือกวิธีการชำระเงิน",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","เราไม่สามารถดำเนินการสั่งซื้อของคุณตอนนี้ กรุณาลองใหม่อีกครั้งในภายหลัง",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","เกิดข้อผิดพลาดบนเซิร์ฟเวอร์ กรุณาพยายามที่จะสั่งซื้ออีกครั้ง",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","บัตรเครดิต: xxxx-%1",module,Magento_Authorizenet
+"amount %1","จำนวน %1",module,Magento_Authorizenet
+failed.,"ล้มเหลว",module,Magento_Authorizenet
+successful.,"สำเร็จ",module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net รหัสธุรกรรม %1",module,Magento_Authorizenet
+authorize,"อนุญาต",module,Magento_Authorizenet
+"authorize and capture","อนุญาตและบันทึก",module,Magento_Authorizenet
+capture,"บันทึก",module,Magento_Authorizenet
+refund,"คืนเงิน",module,Magento_Authorizenet
+void,"โมฆะ",module,Magento_Authorizenet
+"Gateway error: %1","ข้อผิดพลาดเกตเวย์: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","ข้อผิดพลาดในระบบชำระเงิน",module,Magento_Authorizenet
+"Invalid amount for capture.","จำนวนเงินที่ไม่ถูกต้องสำหรับการบันทึก",module,Magento_Authorizenet
+"Payment capturing error.","ข้อผิดพลาดการบันทึกการชำระเงิน",module,Magento_Authorizenet
+"Invalid transaction ID.","รหัสธุรกรรมที่ไม่ถูกต้อง",module,Magento_Authorizenet
+"Payment voiding error.","ไม่สามารถยกเลิกการชำระเงินได้",module,Magento_Authorizenet
+"Invalid amount for refund.","จำนวนเงินที่คืนเงินไม่ถูกต้อง",module,Magento_Authorizenet
+"Payment refunding error.","ไม่สามารถคืนเงินได้สำเร็จ",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","การทำธุรกรรมโดนปฏิเสธเนื่องจาก hash validation ผิดพลาด",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","การชำระเงินไม่สำเร็จ เนื่องจากไม่สามารถหารายการสั่งซื้อได้พบ",module,Magento_Authorizenet
+"There was a payment authorization error.","การยืนยันการชำระเงินมีข้อผิดพลาด",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","กรุณากรอกหมายเลขธุรกรรมเพื่อยืนยันการชำระเงิน",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","มีบางสิ่งผิดพลาด ยอดเงินที่ชำระไม่ตรงกับยอดในรายการสั่งซื้อ กรุณากรอกให้ถูกต้องอีกครั้ง",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","รายการธุรกรรม %1 อนุมัติแล้ว ยอด %2 สถานะหมายเลขธุรกรรมคือ ""%3""",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","รายการธุรกรรม %1 ยกเลิก สถานะหมายเลขธุรกรรมคือ ""%2"" ยอด %3.",module,Magento_Authorizenet
+"Authorize Only","ได้รับอนุญาตเท่านั้น",module,Magento_Authorizenet
+"Authorize and Capture","อนุญาตและการบันทึก",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","ไม่สามารถดูรายละเอียดรายการธุรกรรมได้ กรุณาลองใหม่อีกครั้ง",module,Magento_Authorizenet
+"Credit Card Type","ประเภทบัตรเครดิต",module,Magento_Authorizenet
+"Credit Card Number","หมายเลขบัตรเครดิต",module,Magento_Authorizenet
+"Expiration Date","วันหมดอายุ",module,Magento_Authorizenet
+"Card Verification Number","หมายเลขยืนยันบัตรเครดิต",module,Magento_Authorizenet
+"Fraud Detection ","ตรวจสอบการทุจริต ",module,Magento_Authorizenet
+"FDS Filter Action","ตัวกรองการกระทำ FDS",module,Magento_Authorizenet
+"AVS Response","AVS ตอบสนอง",module,Magento_Authorizenet
+"Card Code Response","รหัสบัตรเครดิตที่ตอบกลับมา",module,Magento_Authorizenet
+"CAVV Response","CAVV ตอบสนอง",module,Magento_Authorizenet
+"Fraud Filters","ตัวกรองการทุจริต",module,Magento_Authorizenet
+"Invalid Form Key. Please refresh the page.","Form Key ไม่ถูกต้อง กรุณารีเฟรชหน้านี้อีกครั้ง",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","คุณกรอก Secret Key ไม่ถูกต้อง กรุณารีเฟรชหน้านี้อีกครั้ง",module,Magento_Backend
+"Cache Storage Management","การจัดการเก็บแคช",module,Magento_Backend
+"Flush Magento Cache","ล้าง Magento แคช",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","การจัดเก็บแคชอาจมีข้อมูลเพิ่มเติม คุณแน่ใจหรือว่าคุณต้องการที่จะล้างมันได้หรือไม่",module,Magento_Backend
+"Flush Cache Storage","ล้างแคช",module,Magento_Backend
+Invalidated,"ไม่ถูกต้อง",module,Magento_Backend
+Orders,"รายการสั่งซื้อ",module,Magento_Backend
+Amounts,"จํานวนเงิน",module,Magento_Backend
+Bestsellers,"ขายดีที่สุด",module,Magento_Backend
 "Most Viewed Products","Most Viewed Products",module,Magento_Backend
 "New Customers","New Customers",module,Magento_Backend
 Customers,Customers,module,Magento_Backend
@@ -1637,7 +1637,9 @@ Store,Store,module,Magento_Config
 Yes,Yes,module,Magento_Config
 Specified,Specified,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Config form fieldset clone model required to be able to clone fields",module,Magento_Config
-"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Config
+"Invalid XML in file %1:
+%2","Invalid XML in file %1:
+%2",module,Magento_Config
 .,.,module,Magento_Config
 some_label,some_label,module,Magento_Config
 some_comment,some_comment,module,Magento_Config
@@ -4465,7 +4467,9 @@ Home,Home,module,Magento_Sales
 "Path ""%1"" is not part of allowed directory ""%2""","Path ""%1"" is not part of allowed directory ""%2""",module,Magento_Sales
 "Identifying Fields required","Identifying Fields required",module,Magento_Sales
 "Id required","Id required",module,Magento_Sales
-"""Invoice Document Validation Error(s):\n"" .","""Invoice Document Validation Error(s):\n"" .",module,Magento_Sales
+"""Invoice Document Validation Error(s):
+"" .","""Invoice Document Validation Error(s):
+"" .",module,Magento_Sales
 "Could not save an invoice, see error log for details","Could not save an invoice, see error log for details",module,Magento_Sales
 "A hold action is not available.","A hold action is not available.",module,Magento_Sales
 "You cannot remove the hold.","You cannot remove the hold.",module,Magento_Sales
@@ -4601,11 +4605,17 @@ State/Province,State/Province,module,Magento_Sales
 "Street Address","Street Address",module,Magento_Sales
 "Phone Number","Phone Number",module,Magento_Sales
 "Zip/Postal Code","Zip/Postal Code",module,Magento_Sales
-"We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
-"Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_Sales
+"We can't save the address:
+%1","We can't save the address:
+%1",module,Magento_Sales
+"Cannot save comment:
+%1","Cannot save comment:
+%1",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID.",module,Magento_Sales
 "We cannot create an empty shipment.","We cannot create an empty shipment.",module,Magento_Sales
-"Cannot save track:\n%1","Cannot save track:\n%1",module,Magento_Sales
+"Cannot save track:
+%1","Cannot save track:
+%1",module,Magento_Sales
 "Cannot unassign status from state","Cannot unassign status from state",module,Magento_Sales
 "New Orders","New Orders",module,Magento_Sales
 "Order #%1 created at %2","Order #%1 created at %2",module,Magento_Sales
@@ -4621,7 +4631,9 @@ State/Province,State/Province,module,Magento_Sales
 "The most money available to refund is %1.","The most money available to refund is %1.",module,Magento_Sales
 "We found an invalid quantity to invoice item ""%1"".","We found an invalid quantity to invoice item ""%1"".",module,Magento_Sales
 "The Order State ""%1"" must not be set manually.","The Order State ""%1"" must not be set manually.",module,Magento_Sales
-"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Sales
+"""Shipment Document Validation Error(s):
+"" .","""Shipment Document Validation Error(s):
+"" .",module,Magento_Sales
 "Could not save a shipment, see error log for details","Could not save a shipment, see error log for details",module,Magento_Sales
 "VAT Request Identifier","VAT Request Identifier",module,Magento_Sales
 "VAT Request Date","VAT Request Date",module,Magento_Sales
@@ -5083,7 +5095,9 @@ Shipments,Shipments,module,Magento_Shipping
 "We can't delete tracking number.","We can't delete tracking number.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Shipping
 "We can't save the shipment right now.","We can't save the shipment right now.",module,Magento_Shipping
-"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Shipping
+"""Shipment Document Validation Error(s):
+"" .","""Shipment Document Validation Error(s):
+"" .",module,Magento_Shipping
 "The shipment has been created.","The shipment has been created.",module,Magento_Shipping
 "Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
 "The order no longer exists.","The order no longer exists.",module,Magento_Shipping
@@ -5832,8 +5846,16 @@ username,username,module,Magento_User
 Custom,Custom,module,Magento_User
 All,All,module,Magento_User
 Resources,Resources,module,Magento_User
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?",module,Magento_User
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
+"Warning!\r
+This action will remove this user from already assigned role\r
+Are you sure?","Warning!\r
+This action will remove this user from already assigned role\r
+Are you sure?",module,Magento_User
+"Warning!\r
+This action will remove those users from already assigned roles\r
+Are you sure?","Warning!\r
+This action will remove those users from already assigned roles\r
+Are you sure?",module,Magento_User
 "First-Class Mail Large Envelope","First-Class Mail Large Envelope",module,Magento_Usps
 "First-Class Mail Letter","First-Class Mail Letter",module,Magento_Usps
 "First-Class Mail Parcel","First-Class Mail Parcel",module,Magento_Usps
